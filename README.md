@@ -24,5 +24,4 @@ Migrate Database
    - Method: **DELETE**
    - URL: **/api/borrowed/returned/{id_book}**
 ### Note
-1. Sorry, I'm not familiar with using Swagger as API Documentation.
-2. This Postman URL https://www.postman.com/bold-meadow-333946/workspace/laravel-backend-api-test-case/collection/5780128-ac23fd23-f368-414f-9021-958c595b1fb5?action=share&creator=5780128
+This Postman URL https://www.postman.com/bold-meadow-333946/workspace/laravel-backend-api-test-case/collection/5780128-ac23fd23-f368-414f-9021-958c595b1fb5?action=share&creator=5780128
